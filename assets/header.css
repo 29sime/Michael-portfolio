@@ -1,0 +1,42 @@
+.header {
+    background-color: black;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    padding: 20px;
+
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    margin-right: 100px;
+
+}
+
+.nav a {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    text-decoration: none;
+    font-size: 1rem;
+
+}
+
+.nav a:hover {
+    color: blue;
+}
+
+.logo {
+    font-size: 20px;
+}
+
+.Section1 {
+    background-color: rgb(41, 39, 36);
+}

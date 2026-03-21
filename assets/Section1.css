@@ -1,0 +1,40 @@
+.section1 {
+    margin-top: 100px;
+    margin-left: 140px;
+
+}
+
+.section1 h2 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.section1 p {
+    font-size: 22px;
+    color: #555;
+}
+
+.buttons {
+    margin-left: 500px;
+    margin-top: 40px;
+
+}
+
+
+.btn {
+    padding: 12px 28px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.btn-primary {
+    background-color: black;
+    color: white;
+}
+
+.btn:hover {
+    background-color: gray;
+}
