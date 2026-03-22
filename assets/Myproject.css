@@ -1,4 +1,42 @@
-.MyProject h1 {
-    padding-top: 200px;
-    margin-left: 550px;
+.Project h1 {
+    padding-top: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.projects-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.project-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.FirstProject,
+.FirstProject1 {
+    flex: 1;
+    max-width: 500px;
+    text-align: center;
+}
+
+
+.FirstProject:hover {
+    transform: translateY(-8px);
+}
+
+.project-image {
+    transition: transform 0.4s ease;
+}
+
+.project-image:hover {
+    transform: scale(1.05);
 }

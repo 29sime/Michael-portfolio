@@ -1,5 +1,5 @@
 .section1 {
-    margin-top: 100px;
+    margin-top: 200px;
     margin-left: 140px;
 
 }
@@ -14,7 +14,7 @@
     color: #555;
 }
 
-.buttons {
+.buttons1 {
     margin-left: 500px;
     margin-top: 40px;
 
@@ -30,7 +30,7 @@
     margin-right: 15px;
 }
 
-.btn-primary {
+.btn-primary1 {
     background-color: black;
     color: white;
 }
